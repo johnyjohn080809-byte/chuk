@@ -1,0 +1,7 @@
+name: InventorySync
+version: 1.0.0
+api-version: 1.13
+main: com.example.inventorysync.Main
+description: Synchronize all players inventory in real-time
+authors:
+  - YourName
